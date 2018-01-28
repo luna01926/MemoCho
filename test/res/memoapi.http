@@ -1,0 +1,7 @@
+POST http://localhost:3000/api/memo
+content-type: application/json
+
+{
+    "title" : "test",
+    "body" : "test text"
+}
